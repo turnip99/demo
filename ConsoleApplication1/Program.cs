@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Turnip 12");
             Console.WriteLine("Turnip 13");
             Console.WriteLine("Turnip 14");
+            Console.ReadLine();
         }
     }
 }
